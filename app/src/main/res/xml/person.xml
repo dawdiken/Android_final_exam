@@ -1,0 +1,12 @@
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="EMPLOYEE.xsd" generated="2011-11-05T23:09:59">
+	<EMPLOYEE>
+		<FNAME>John</FNAME>
+		<ADDRESS>600 Fondren, Houston, TX</ADDRESS>
+		<AMOUNT>10000</AMOUNT>
+	</EMPLOYEE>
+	<EMPLOYEE>
+		<FNAME>Shane</FNAME>
+		<ADDRESS>800 Fondren, Houston, TX</ADDRESS>
+		<AMOUNT>20000</AMOUNT>
+	</EMPLOYEE>
+</dataroot>

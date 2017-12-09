@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="result_foreground">#ff0000</color>
+    <color name="result2_foreground">#ff9900</color>
+    <color name="result3_foreground">#100099</color>
+</resources>
